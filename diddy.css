@@ -1,0 +1,74 @@
+body{
+    background-image: url(background.jpg);
+    background-color: black;
+    text-align: center;
+}
+h1{
+    font-family: sacramento;
+    color: white;
+font-size: 300%;
+
+}
+h2{
+    color: grey;
+}
+.img-1{
+    width: 200px;
+    height: 200px;
+    border-radius: 90%;
+}
+.first-container{
+    margin: 100px auto 100px auto;
+    width: 50%;
+}
+
+p{color: white;
+    line-height: 2;
+}
+hr{
+      border: dotted 7px;
+    border-bottom: none;
+    width: 4%;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.img-2{
+    width: 15vw;
+    height: 15vw;
+    border-radius: 90%;
+    float: left;
+    margin-right: 30px;
+}
+
+h3{
+      color: grey;
+}
+.second-container{
+
+}
+
+.third-container{
+width: 50%;
+margin: 100px auto 100px auto;
+}
+
+.img-3{
+    width: 15vw;
+    height: 15vw;
+    border-radius: 90%;
+    float: right;
+    margin-left: 30px;   
+}
+.fourth-container{
+    width: 50%;
+margin: 100px auto 100px auto;
+}
+
+.fifth-container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    
+}
+}
+
